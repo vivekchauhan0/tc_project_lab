@@ -2,3 +2,4 @@ Hello world
 Hey, I'm here
 Ready to learn
 All about Git
+We all learned something great today!
